@@ -8,5 +8,6 @@
 
 ![image](https://github.com/CharlyJSX/Funci-n-para-pagar-con-Carrito-de-Compras---Javascript---WhatsApp/assets/77645310/31fee465-9bda-4933-9dd0-febf3b656ab1)
 
-![image](https://github.com/CharlyJSX/Funci-n-para-pagar-con-Carrito-de-Compras---Javascript---WhatsApp/assets/77645310/8702f982-f7e4-4fc6-b41d-e8c9c4edd4b2)
+![image](https://github.com/CharlyJSX/Funci-n-para-pagar-con-Carrito-de-Compras---Javascript---WhatsApp/assets/77645310/17bd7166-821a-430c-b262-9656716a0ae5)
+
 
